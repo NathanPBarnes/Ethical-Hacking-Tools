@@ -1,0 +1,1 @@
+This is a collection of various software tools & techniques I have developed over the years while working in cybersecurity & doing various consultation work. Please feel free to use & modify. I also look forward to any reviews, both good & bad!
